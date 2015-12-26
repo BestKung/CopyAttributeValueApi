@@ -1,0 +1,5 @@
+com\mycompany\api\model\A.class
+com\mycompany\api\main\Main.class
+com\mycompany\api\impl\ApiImpl.class
+com\mycompany\api\MapAPI.class
+com\mycompany\api\model\B.class
